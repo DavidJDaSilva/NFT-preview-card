@@ -1,0 +1,52 @@
+body {
+  background-color: hsl(217, 54%, 11%);
+  text-align: left;
+  margin: 200px;
+  font-family: 'Outfit', sans-serif;
+  font-size: 18px;
+}
+
+p {
+  color: hsl(215, 51%, 70%);
+}
+
+.eth {
+  color: hsl(178, 100%, 50%);
+}
+
+.nft {
+  height: 300px;
+  border-radius: 10px;
+}
+
+.Equilibrium {
+  color: white;
+  font-weight: 600;
+}
+
+.card {
+  background-color: hsl(216, 50%, 16%);
+  justify-content: center;
+  border-radius: 15px;
+  padding: 25px;
+  margin: auto;
+  width: 300px;
+}
+
+.avatar {
+  height: 30px;
+  border-width: 1px;
+  border-color: white;
+  border-style: solid;
+  border-radius: 50px;
+  margin-right: 20px;
+  float: left;
+}
+
+.clock {
+  float: right;
+}
+
+.jules {
+  color: white;
+}
